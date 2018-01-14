@@ -74,14 +74,19 @@ img {
 }
 
 .btn {
+    color: #0275d8;
     font-size: 23px;
     cursor: pointer;
+
 }
 
-.btn:hover {
-    background: rgb(43, 57, 152);
-    color: white;
+
+#facebook-share a{
+    text-decoration: none;
+    color:#0275d8;
 }
+
+
 
 @media only screen and (max-width: 1000px) {
     #title {

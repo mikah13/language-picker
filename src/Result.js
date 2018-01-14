@@ -16,7 +16,16 @@ class Result extends React.Component {
                 </div>
                 <div id="result-content">
                     <p>{this.props.display[0].content}</p>
-                    <button className="btn btn-default" onClick={this.props.restart}>Try again</button>
+                    <div class="row">
+                        <div class=" col-lg-6">
+                            <button id="restart" className="btn btn-default" onClick={this.props.restart}>Try again</button>
+                        </div>
+                        <div class="fb-share-button col-lg-6" data-href="https://mikah13.github.io/language-picker/" data-layout="button_count" data-size="large" data-mobile-iframe="true">
+                            <button class="btn btn-default" id="facebook-share">
+                                <a class="fb-xfbml-parse-ignore" rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmikah13.github.io%2Flanguage-picker%2F&amp;src=sdkpreparse">Share on Facebook</a>
+                            </button>
+                        </div>
+                    </div>
 
                 </div>
 
