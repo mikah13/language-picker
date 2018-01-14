@@ -1,4 +1,4 @@
-var Database = {
+{
     "title": "Why do you want to learn to code ?",
     "options": [
         {
@@ -1084,5 +1084,3 @@ var Database = {
         }
     ]
 }
-
-export default Database;
