@@ -8,7 +8,21 @@ class Result extends React.Component {
     }
     render() {
 
-        return (<div className="row"><h1 id="result-language">{this.props.display[0].description}</h1>{this.display(this.props.display)}</div>)
+        return (<div className="row">
+            <div className=" col-lg-12">
+                <div className="result">
+                    <h1 id="result-language">{this.props.display[0].description}</h1>
+                    <img alt={this.props.display[0].description} id="result-img" src={this.props.display[0].img}/>
+                </div>
+                <div id="result-content">
+                    <p>{this.props.display[0].content}</p>
+                    <button className="btn btn-default" onClick={this.props.restart}>Try again</button>
+
+                </div>
+
+            </div>
+
+        </div>)
     }
 }
 
