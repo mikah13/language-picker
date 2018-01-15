@@ -47,7 +47,7 @@ img {
     background-color: white;
     width: 50%;
     margin: auto;
-    padding-bottom: 30px;
+    padding-bottom: 10px;
     padding-top: 30px;
 }
 
@@ -73,6 +73,9 @@ img {
     height: auto;
 }
 
+.button{
+    margin-top: 40px;
+}
 .btn {
     color: #0275d8;
     font-size: 23px;

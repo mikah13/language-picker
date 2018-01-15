@@ -16,7 +16,7 @@ class Result extends React.Component {
                 </div>
                 <div id="result-content">
                     <p>{this.props.display[0].content}</p>
-                    <div class="row">
+                    <div class="row button">
                         <div class=" col-lg-6">
                             <button id="restart" className="btn btn-default" onClick={this.props.restart}>Try again</button>
                         </div>
