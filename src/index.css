@@ -7,7 +7,7 @@ body {
 }
 
 .game {
-    margin-top: 6%;
+    margin-top: 3%;
 }
 
 #title {
@@ -65,7 +65,7 @@ img {
 
 #result-content {
     margin: auto;
-    font-size: 25px;
+    font-size: 22px;
     width: 65%;
     background-color: rgb(10, 195, 245);
     color: white;
