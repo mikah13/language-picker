@@ -28,7 +28,7 @@ body {
     height: 480px;
 }
 .footer{
-    margin: 60px auto;
+    margin: 30px auto;
     width: 300px;
 }
 img {
@@ -48,7 +48,7 @@ img {
 
 .result {
     background-color: white;
-    width: 50%;
+    width: 65%;
     margin: auto;
     padding-bottom: 10px;
     padding-top: 30px;
@@ -64,7 +64,7 @@ img {
 #result-content {
     margin: auto;
     font-size: 25px;
-    width: 50%;
+    width: 65%;
     background-color: rgb(10, 195, 245);
     color: white;
     text-align: center;
