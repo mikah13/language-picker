@@ -23,14 +23,16 @@ body {
     /* color:#bce3f4; */
 }
 
-.display{
+.display {
     min-height: 400px;
     height: 480px;
 }
-.footer{
+
+.footer {
     margin: 30px auto;
     width: 300px;
 }
+
 img {
     margin-right: auto;
     margin-left: auto;
@@ -76,27 +78,23 @@ img {
     height: auto;
 }
 
-.button{
+.button {
     margin-top: 40px;
 }
+
 .btn {
     color: #0275d8;
     font-size: 23px;
     cursor: pointer;
-
 }
 
-
-#facebook-share a{
+#facebook-share a {
     text-decoration: none;
-    color:#0275d8;
+    color: #0275d8;
 }
-
-
-
 
 @media only screen and (max-width: 1000px) {
-    #content{
+    #content {
         width: 300px;
         margin: auto;
     }
