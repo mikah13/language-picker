@@ -7,7 +7,7 @@ body {
 }
 
 .game {
-    margin-top: 3%;
+    margin-top: 5%;
 }
 
 #title {
@@ -25,11 +25,11 @@ body {
 
 .display {
     min-height: 400px;
-    height: 480px;
+    height: 460px;
 }
 
 .footer {
-    margin: 30px auto;
+    margin: 20px auto;
     width: 300px;
 }
 
@@ -53,7 +53,7 @@ img {
     width: 65%;
     margin: auto;
     padding-bottom: 10px;
-    padding-top: 30px;
+    padding-top: 15px;
 }
 
 #result-language {
@@ -70,7 +70,7 @@ img {
     background-color: rgb(10, 195, 245);
     color: white;
     text-align: center;
-    padding: 30px 20px 30px 20px;
+    padding: 20px 20px 20px 20px;
 }
 
 #result-img {
@@ -79,10 +79,11 @@ img {
 }
 
 .button {
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .btn {
+    background: white;
     color: #0275d8;
     font-size: 23px;
     cursor: pointer;

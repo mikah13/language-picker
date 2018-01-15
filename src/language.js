@@ -103,7 +103,7 @@ let Database = {
                                                             "description": "C++",
                                                             "img": logo56,
                                                             "type": "result",
-                                                            "content": "C++ is a very powerful programming language. C++ Allows you to work directly with computer internal resource which makes your game run faster. C++ is usuAlly used to create game engines, games and applications. Many mobile applications are developed with Cocos2Dx, a C++ framework."
+                                                            "content": "C++ is a very powerful programming language. C++ allows you to work directly with computer internal resource which makes your game run faster. C++ is usually used to create game engines, games and applications. Many mobile applications are developed with Cocos2Dx, a C++ framework."
                                                         }
                                                     ]
                                                 }
@@ -148,7 +148,7 @@ let Database = {
                                                             "description": "C#",
                                                             "img": logo57,
                                                             "type": "result",
-                                                            "content": "Unity Game Engine is the most popular engine to make games and VR. C# can also work reAlly well with this engine."
+                                                            "content": "Unity Game Engine is the most popular engine to make games and VR. C# can also work really well with this engine."
                                                         }
                                                     ]
                                                 }
@@ -164,7 +164,7 @@ let Database = {
                                                             "description": "C++",
                                                             "img": logo56,
                                                             "type": "result",
-                                                            "content": "C++ is a very powerful programming language. C++ Allows you to work directly with computer internal resource which makes your game run faster. C++ is usuAlly used to create game engines, games and applications. Many mobile applications are developed with Cocos2Dx, a C++ framework."
+                                                            "content": "C++ is a very powerful programming language. C++ allows you to work directly with computer internal resource which makes your game run faster. C++ is usually used to create game engines, games and applications. Many mobile applications are developed with Cocos2Dx, a C++ framework."
                                                         }
                                                     ]
                                                 }
@@ -188,7 +188,7 @@ let Database = {
                                                                         "description": "Unreal/C++",
                                                                         "img": logo56,
                                                                         "type": "result",
-                                                                        "content": "C++ is a very powerful programming language. C++ Allows you to work directly with computer internal resource which makes your game run faster. C++ is usuAlly used to create game engines, games and applications. Many games are developed with Unreal Engine."
+                                                                        "content": "C++ is a very powerful programming language. C++ allows you to work directly with computer internal resource which makes your game run faster. C++ is usually used to create game engines, games and applications. Many games are developed with Unreal Engine."
                                                                     }
                                                                 ]
                                                             }
@@ -282,7 +282,7 @@ let Database = {
                                                             "description": "Python",
                                                             "img": logo61,
                                                             "type": "result",
-                                                            "content": "Python is very easy to learn. It Allows you to quickly build prototype and application. Famous websites written in Python: Google, Reddit, Dropbox, Netflix, Paypal, Spotify,..."
+                                                            "content": "Python is very easy to learn. It allows you to quickly build prototype and application. Famous websites written in Python: Google, Reddit, Dropbox, Netflix, Paypal, Spotify,..."
                                                         }
                                                     ]
                                                 }
@@ -298,7 +298,7 @@ let Database = {
                                                             "description": "Ruby",
                                                             "img": logo62,
                                                             "type": "result",
-                                                            "content": "Ruby on Rails is a popular framework. Developers also love it and find it easy to work on. Ruby Allows you to add features, solve problems in a more flexible way, compared to other languages. Ruby Developers also have second highest salary in the Angel List."
+                                                            "content": "Ruby on Rails is a popular framework. Developers also love it and find it easy to work on. Ruby allows you to add features, solve problems in a more flexible way, compared to other languages. Ruby Developers also have second highest salary in the Angel List."
                                                         }
                                                     ]
                                                 }
@@ -435,7 +435,7 @@ let Database = {
                                                 "description": "Java",
                                                 "img": logo64,
                                                 "type": "result",
-                                                "content": "Java is a famous language that is prefered by enterprises. 90% of companies in the Fortune 500 list are using this language. When it comes to speeding up the performance or extending the features, people usuAlly use Java. Java developers are always in a great demand in the industry."
+                                                "content": "Java is a famous language that is prefered by enterprises. 90% of companies in the Fortune 500 list are using this language. When it comes to speeding up the performance or extending the features, people usually use Java. Java developers are always in a great demand in the industry."
                                             }
                                         ]
                                     }
@@ -490,7 +490,7 @@ let Database = {
                                                 "description": "Java",
                                                 "img": logo64,
                                                 "type": "result",
-                                                "content": "Java is a famous language that is prefered by enterprises. 90% of companies in the Fortune 500 list are using this language. When it comes to speeding up the performance or extending the features, people usuAlly use Java. Java developers are always in a great demand in the industry."
+                                                "content": "Java is a famous language that is prefered by enterprises. 90% of companies in the Fortune 500 list are using this language. When it comes to speeding up the performance or extending the features, people usually use Java. Java developers are always in a great demand in the industry."
                                             }
                                         ]
                                     }
@@ -527,7 +527,7 @@ let Database = {
                                                     "description": "Ruby",
                                                     "img": logo62,
                                                     "type": "result",
-                                                    "content": "Ruby on Rails is a popular framework. Developers also love it and find it easy to work on. Ruby Allows you to add features, solve problems in a more flexible way, compared to other languages. Ruby Developers also have second highest salary in the Angel List."
+                                                    "content": "Ruby on Rails is a popular framework. Developers also love it and find it easy to work on. Ruby allows you to add features, solve problems in a more flexible way, compared to other languages. Ruby Developers also have second highest salary in the Angel List."
 
                                                 }
                                             }, {
@@ -542,7 +542,7 @@ let Database = {
                                                             "description": "Python",
                                                             "img": logo61,
                                                             "type": "result",
-                                                            "content": "Python is very easy to learn. It Allows you to quickly build prototype and application. Famous websites written in Python: Google, Reddit, Dropbox, Netflix, Paypal, Spotify,..."
+                                                            "content": "Python is very easy to learn. It allows you to quickly build prototype and application. Famous websites written in Python: Google, Reddit, Dropbox, Netflix, Paypal, Spotify,..."
                                                         }
                                                     ]
                                                 }
@@ -633,7 +633,7 @@ let Database = {
                                                 "description": "C#",
                                                 "img": logo57,
                                                 "type": "result",
-                                                "content": "Unity Game Engine is the most popular engine to make games and VR. C# can also work reAlly well with this engine."
+                                                "content": "Unity Game Engine is the most popular engine to make games and VR. C# can also work really well with this engine."
                                             }
                                         ]
                                     }
@@ -658,7 +658,7 @@ let Database = {
                                                             "description": "C++",
                                                             "img": logo56,
                                                             "type": "result",
-                                                            "content": "C++ is a very powerful programming language. C++ Allows you to work directly with computer internal resource which makes your game run faster. C++ is usuAlly used to create game engines, games and applications. Many mobile applications are developed with Cocos2Dx, a C++ framework."
+                                                            "content": "C++ is a very powerful programming language. C++ allows you to work directly with computer internal resource which makes your game run faster. C++ is usually used to create game engines, games and applications. Many mobile applications are developed with Cocos2Dx, a C++ framework."
                                                         }
                                                     ]
                                                 }
@@ -718,7 +718,7 @@ let Database = {
                                                             "description": "Unreal/C++",
                                                             "img": logo56,
                                                             "type": "result",
-                                                            "content": "C++ is a very powerful programming language. C++ Allows you to work directly with computer internal resource which makes your game run faster. C++ is usuAlly used to create game engines, games and applications. Many games are developed with Unreal Engine."
+                                                            "content": "C++ is a very powerful programming language. C++ allows you to work directly with computer internal resource which makes your game run faster. C++ is usually used to create game engines, games and applications. Many games are developed with Unreal Engine."
                                                         }
                                                     ]
                                                 }
@@ -880,7 +880,7 @@ let Database = {
                                                             "description": "Python",
                                                             "img": logo61,
                                                             "type": "result",
-                                                            "content": "Python is very easy to learn. It Allows you to quickly build prototype and application. Famous websites written in Python: Google, Reddit, Dropbox, Netflix, Paypal, Spotify,..."
+                                                            "content": "Python is very easy to learn. It allows you to quickly build prototype and application. Famous websites written in Python: Google, Reddit, Dropbox, Netflix, Paypal, Spotify,..."
                                                         }
                                                     ]
                                                 }
@@ -896,7 +896,7 @@ let Database = {
                                                             "description": "Ruby",
                                                             "img": logo62,
                                                             "type": "result",
-                                                            "content": "Ruby on Rails is a popular framework. Developers also love it and find it easy to work on. Ruby Allows you to add features, solve problems in a more flexible way, compared to other languages. Ruby Developers also have second highest salary in the Angel List."
+                                                            "content": "Ruby on Rails is a popular framework. Developers also love it and find it easy to work on. Ruby allows you to add features, solve problems in a more flexible way, compared to other languages. Ruby Developers also have second highest salary in the Angel List."
                                                         }
                                                     ]
                                                 }
@@ -966,7 +966,7 @@ let Database = {
                                                             "description": "Python",
                                                             "img": logo61,
                                                             "type": "result",
-                                                            "content": "Python is very easy to learn. It Allows you to quickly build prototype and application. Famous websites written in Python: Google, Reddit, Dropbox, Netflix, Paypal, Spotify,..."
+                                                            "content": "Python is very easy to learn. It allows you to quickly build prototype and application. Famous websites written in Python: Google, Reddit, Dropbox, Netflix, Paypal, Spotify,..."
                                                         }
                                                     ]
                                                 }
@@ -1020,7 +1020,7 @@ let Database = {
                                     "description": "Python",
                                     "img": logo61,
                                     "type": "result",
-                                    "content": "Python is very easy to learn. It Allows you to quickly build prototype and application. Famous websites written in Python: Google, Reddit, Dropbox, Netflix, Paypal, Spotify,..."
+                                    "content": "Python is very easy to learn. It allows you to quickly build prototype and application. Famous websites written in Python: Google, Reddit, Dropbox, Netflix, Paypal, Spotify,..."
                                 }
                             ]
                         }
@@ -1128,7 +1128,7 @@ let Database = {
                                         "title": "How big is your company ?",
                                         "options": [
                                             {
-                                                "description": "SmAll Company",
+                                                "description": "Small Company",
                                                 "img": logo50,
                                                 "id": 1,
                                                 "type": "option",
@@ -1163,7 +1163,7 @@ let Database = {
                                                                         "description": "Python",
                                                                         "img": logo61,
                                                                         "type": "result",
-                                                                        "content": "Python is very easy to learn. It Allows you to quickly build prototype and application. Famous websites written in Python: Google, Reddit, Dropbox, Netflix, Paypal, Spotify,..."
+                                                                        "content": "Python is very easy to learn. It allows you to quickly build prototype and application. Famous websites written in Python: Google, Reddit, Dropbox, Netflix, Paypal, Spotify,..."
                                                                     }
                                                                 ]
                                                             }
@@ -1179,7 +1179,7 @@ let Database = {
                                                                         "description": "Ruby",
                                                                         "img": logo62,
                                                                         "type": "result",
-                                                                        "content": "Ruby on Rails is a popular framework. Developers also love it and find it easy to work on. Ruby Allows you to add features, solve problems in a more flexible way, compared to other languages. Ruby Developers also have second highest salary in the Angel List."
+                                                                        "content": "Ruby on Rails is a popular framework. Developers also love it and find it easy to work on. Ruby allows you to add features, solve problems in a more flexible way, compared to other languages. Ruby Developers also have second highest salary in the Angel List."
                                                                     }
                                                                 ]
                                                             }
@@ -1214,7 +1214,7 @@ let Database = {
                                                             "description": "Java",
                                                             "img": logo64,
                                                             "type": "result",
-                                                            "content": "Java is a famous language that is prefered by enterprises. 90% of companies in the Fortune 500 list are using this language. When it comes to speeding up the performance or extending the features, people usuAlly use Java. Java developers are always in a great demand in the industry."
+                                                            "content": "Java is a famous language that is prefered by enterprises. 90% of companies in the Fortune 500 list are using this language. When it comes to speeding up the performance or extending the features, people usually use Java. Java developers are always in a great demand in the industry."
                                                         }
                                                     ]
                                                 }
