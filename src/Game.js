@@ -34,6 +34,9 @@ class Game extends React.Component {
         return (<div className="container-fluid">
             <h1 id="title">{database.title}</h1>
             <div className="display">{this.displayContent()}</div>
+            <div className="footer" id="facebook">
+                <div className="fb-like" data-href="https://mikah13.github.io/language-picker/" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+            </div>
         </div>)
     }
 }
