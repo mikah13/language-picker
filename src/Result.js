@@ -1,5 +1,4 @@
 import React from 'react';
-import Cell from './Cell';
 class Result extends React.Component {
     render() {
         return (<div className="row">

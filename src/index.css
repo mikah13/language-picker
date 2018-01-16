@@ -24,6 +24,8 @@ body {
 }
 
 .display {
+    margin: auto;
+    width: 90%;
     min-height: 400px;
     height: 460px;
 }
