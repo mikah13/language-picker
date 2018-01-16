@@ -42,7 +42,7 @@ img {
     display: block;
     width: auto;
     height: 150px;
-    max-width: 420px;
+    max-width: 400px;
 }
 
 .cell-img:hover {
